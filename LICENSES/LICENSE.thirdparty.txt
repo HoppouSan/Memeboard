@@ -1,0 +1,26 @@
+Third-party licenses for MemeBoard by HoppouSan
+
+This project uses the following open-source libraries under their respective licenses:
+
+1. PySide6 (Qt for Python)
+   - License: GNU Lesser General Public License v3 (LGPL-3.0)
+   - Source: https://pypi.org/project/PySide6/
+   - Full license text: LICENSES/LICENSE.PySide6.txt
+   - Note: You must comply with LGPL requirements if distributing binaries.
+
+2. Pygame
+   - License: GNU Lesser General Public License v2.1 (LGPL-2.1)
+   - Source: https://www.pygame.org/
+   - Full license text: LICENSES/LICENSE.Pygame.txt
+
+3. Requests
+   - License: Apache License 2.0
+   - Source: https://requests.readthedocs.io/
+   - Full license text: LICENSES/LICENSE.Requests.txt
+
+All other dependencies (standard Python library, etc.) fall under their respective licenses.
+
+For full compliance:
+- Source code of this project is available under MIT.
+- When distributing binaries, you must provide access to the LGPL source code of PySide6 and Pygame if requested.
+- See individual license files in the LICENSES/ folder for complete texts.
