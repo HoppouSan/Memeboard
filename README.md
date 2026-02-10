@@ -4,7 +4,10 @@ Modern soundboard application with hotkeys, categories, favorites, automatic sou
 
 Perfect for memes in calls, streams or just having fun with friends.
 
+Linux  releases
 
+.deb package for Debian/Ubuntu
+.AppImage portable version
 
 ## Features
 
@@ -56,11 +59,7 @@ pip install -r requirements.txt    # or manually install the 3 packages above
 python main.py
 
 
-Linux pre-built releases (planned)
 
-.deb package for Debian/Ubuntu
-.AppImage portable version
-→ Coming soon in Releases
 
 How to Use – Voice Chat Routing (Linux only)
 
