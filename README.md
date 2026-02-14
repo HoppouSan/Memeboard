@@ -11,7 +11,7 @@ Linux  releases
 
 ## Features
 
-- Paste MyInstants / sound-button links → auto-download & clean name extraction
+- Paste Voicemod / MyInstants / sound-button links → auto-download & clean name extraction
 - Custom categories + "All" / "Uncategorized" system
 - Favorites (starred sounds appear first)
 - Hotkey support (a–z, 0–9, F1–F12, space, arrows, enter, esc, …)
